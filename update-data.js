@@ -17,7 +17,7 @@ const path = require('path');
 // ==========================================
 // 1. CONFIGURATION
 // ==========================================
-const SCRAPERAPI_KEY = process.env.SCRAPER_API_KEY || '9e6091af4f7987d1f035fa0490980022';
+const SCRAPERAPI_KEY = process.env.SCRAPER_API_KEY;
 const SCRAPERAPI_SEARCH = 'https://api.scraperapi.com/structured/amazon/search';
 const SCRAPERAPI_PRODUCT = 'https://api.scraperapi.com/structured/amazon/product';
 
