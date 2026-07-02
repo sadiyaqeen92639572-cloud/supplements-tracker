@@ -24,9 +24,7 @@ Before buying any supplement, it helps to know which ingredients and certificati
 - Ingredient scanner for common fillers and artificial additives
 - Price per serving calculator for real comparison
 
-## Target Domain
-
-Live tracker with daily-updated prices: [cleanlabeltracker.com](https://cleanlabeltracker.com)
+The full live tracker with daily-updated prices is available at [cleanlabeltracker.com](https://cleanlabeltracker.com).
 
 ## Data Fields
 
